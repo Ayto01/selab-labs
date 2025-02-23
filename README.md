@@ -10,10 +10,10 @@ Lijst alle teamleden op met hun GitHub gebruikersnaam:
 
 | Name      | GitHub username                         |
 | :-------- | :-------------------------------------- |
-| Bekir Aytac KARAKUS | [username](https://github.com/Ayto01) |
-| Daniel CASTANO MONTEALEGRE | [username](https://github.com/Daniel-Castano-hog) |
-| Sacha SCHREUER | [username](https://github.com/sachinovitch) |
-| Ilene DUBOIS  | [username](https://github.com/ilenedubois) |
+| Bekir Aytac KARAKUS | [Ayto01](https://github.com/Ayto01) |
+| Daniel CASTANO MONTEALEGRE | [Daniel-Castano-hog](https://github.com/Daniel-Castano-hog) |
+| Sacha SCHREUER | [sachinovitch](https://github.com/sachinovitch) |
+| Ilene DUBOIS  | [ilenedubois](https://github.com/ilenedubois) |
 | Francis OSTIJN | [username](https://github.com/username) |
 
 
