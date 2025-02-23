@@ -10,11 +10,12 @@ Lijst alle teamleden op met hun GitHub gebruikersnaam:
 
 | Name      | GitHub username                         |
 | :-------- | :-------------------------------------- |
-| Student 1 | [username](https://github.com/username) |
-| Student 2 | [username](https://github.com/username) |
-| Student 3 | [username](https://github.com/username) |
-| Student 4 | [username](https://github.com/username) |
-| Student 5 | [username](https://github.com/username) |
+| Bekir Aytac KARAKUS | [username](https://github.com/Ayto01) |
+| Daniel CASTANO MONTEALEGRE | [username](https://github.com/Daniel-Castano-hog) |
+| Sacha SCHREUER | [username](https://github.com/sachinovitch) |
+| Ilene DUBOIS  | [username](https://github.com/ilenedubois) |
+| Francis OSTIJN | [username](https://github.com/username) |
+
 
 ## Inhoudstafel
 
